@@ -36,7 +36,4 @@
 ![Sabidharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=radical)
 
----
 
-### ⚡ Fun Fact:
-I love debugging more than coding sometimes — solving bugs feels like winning a mini escape room challenge! 😄
