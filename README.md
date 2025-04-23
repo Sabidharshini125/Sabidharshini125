@@ -3,8 +3,8 @@
 💻 A passionate full-stack developer and tech enthusiast  
 🌍 Exploring web technologies and building responsive web apps  
 🚀 Currently working on: **Travel Website using MERN stack**  
-📚 Learning: Spring Boot, MongoDB, and Redux
-🛠️ Tools: VS Code, GitHub, Postman, MySQL, React
+📚 Learning: Spring Boot,MongoDB, and Redux  
+🛠️ Tools: VS Code, GitHub, Postman,React, MySQL
 
 ---
 
@@ -29,5 +29,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
---
+---
 
+### 📈 GitHub Stats:
+
+![Sabidharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=radical)
+
+---
+
+### ⚡ Fun Fact:
+I love debugging more than coding sometimes — solving bugs feels like winning a mini escape room challenge! 😄
