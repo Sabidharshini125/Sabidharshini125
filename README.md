@@ -3,8 +3,8 @@
 💻 A passionate full-stack developer and tech enthusiast  
 🌍 Exploring web technologies and building responsive web apps  
 🚀 Currently working on: **Travel Website using MERN stack**  
-📚 Learning: Spring Boot,MongoDB, and Redux  
-🛠️ Tools: VS Code, GitHub, Postman,React, MySQL
+📚 Learning: Spring Boot, React, MongoDB, and Redux  
+🛠️ Tools: VS Code, GitHub, Postman, Figma, MySQL, Firebase
 
 ---
 
@@ -25,6 +25,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
@@ -33,8 +34,8 @@
 
 ### 📈 GitHub Stats:
 
-![Sabidharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=radical)
+![Sabidharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=tokyonight)
 
 ---
 
