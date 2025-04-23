@@ -35,14 +35,15 @@
 
 ### 📈 GitHub Stats:
 
-![Sabidharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=radical)
+![Sabidharshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Profile Trophies
 
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Sabidharshini125&theme=onedark&no-frame=true&row=1&column=8&title=Repositories,Experience,Commits,PullRequest,Stars,Followers,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sabidharshini125&theme=radical&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
