@@ -39,5 +39,9 @@
 
 ---
 
-### ⚡ Fun Fact:
-I love debugging more than coding sometimes — solving bugs feels like winning a mini escape room challenge! 😄
+---
+
+### 💡 About Me as a Developer:
+
+I’m a highly motivated and detail-oriented developer with a passion for building clean, user-friendly applications. I thrive in collaborative environments and enjoy solving real-world problems through technology. I continuously seek opportunities to learn new skills and improve my craft.
+
