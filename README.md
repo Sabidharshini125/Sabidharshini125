@@ -29,11 +29,5 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
----
-
-### 📈 GitHub Stats:
-
-![Sabidharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=radical)
-
+--
 
