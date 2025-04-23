@@ -3,8 +3,8 @@
 💻 A passionate full-stack developer and tech enthusiast  
 🌍 Exploring web technologies and building responsive web apps  
 🚀 Currently working on: **Travel Website using MERN stack**  
-📚 Learning: Spring Boot, React, MongoDB, and Redux  
-🛠️ Tools: VS Code, GitHub, Postman, Figma, MySQL, Firebase
+📚 Learning: Spring Boot, MongoDB, and Redux  
+🛠️ Tools: VS Code, GitHub, Postman, React, MySQL
 
 ---
 
@@ -34,14 +34,17 @@
 
 ### 📈 GitHub Stats:
 
-![Sabidharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=tokyonight)
+![Sabidharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabidharshini125&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabidharshini125&layout=compact&theme=radical)
 
 ---
 
+### 🏆 GitHub Profile Trophies
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Sabidharshini125&theme=onedark&no-frame=true&row=1&column=8&title=Repositories,Experience,Commits,PullRequest,Stars,Followers,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
-### 💡 About Me as a Developer:
+### ✨ About Me:
 
-I’m a highly motivated and detail-oriented developer with a passion for building clean, user-friendly applications. I thrive in collaborative environments and enjoy solving real-world problems through technology. I continuously seek opportunities to learn new skills and improve my craft.
-
+I am detail-oriented, always eager to learn, and driven by curiosity. I love turning ideas into reality through code, and I enjoy collaborating with others to build impactful software. I'm dedicated, organized, and always up for a challenge!
